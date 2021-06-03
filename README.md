@@ -7,13 +7,13 @@
 
 <!-- Add your project demo gif here -->
 
-![Project Demo Gif]()
+![Project Demo Gif](https://media.giphy.com/media/5EV7ickMjwf6a6Qrol/giphy.gif)
 
 </div>
 
 <hr />
 
-<p align="center">This is a simple responsive single page website for pizza ordering built using ReactJS and Styled Components as a part of my learnings.</p>
+<p align="left">This is a simple responsive single page website for pizza ordering built using ReactJS and Styled Components as a part of my learnings.</p>
 
 ## 💡Features
 
